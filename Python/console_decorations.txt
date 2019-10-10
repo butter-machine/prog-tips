@@ -1,0 +1,3 @@
+https://pypi.org/project/colorama/ -- colors in console
+https://pypi.org/project/playsound/ -- sounds
+https://pypi.org/project/tqdm/ -- progress bar
