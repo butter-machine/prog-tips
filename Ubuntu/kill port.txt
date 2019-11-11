@@ -1,1 +1,2 @@
 sudo netstat -lpn |grep :8000
+kill [port_id]
